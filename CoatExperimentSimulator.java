@@ -106,7 +106,7 @@ public class CoatExperimentSimulator {
 		System.out.println(avgPeopleGotCoat);
 
 		// Step 4: Estimated Value of e
-		// System.out.println("The estimate of the value of e : " + 1/probOfZero);
+		System.out.println("The estimate of the value of e : " + 1/probOfZero);
 		System.out.println(1 / probOfZero);
 	}
 
